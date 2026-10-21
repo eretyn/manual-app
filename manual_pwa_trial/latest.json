@@ -1,0 +1,1 @@
+{"version":1,"categories":[{"id":"mri","name":"MRI","parentId":null},{"id":"example","name":"サンプル","parentId":"mri"}],"manuals":[{"id":"demo1","categoryId":"example","title":"動作確認用マニュアル","body":"これは架空のサンプルです。院内の実際の撮像条件は含まれていません。","images":[],"updatedAt":"2026/10/21"}],"exportedAt":"2026-10-21T00:00:00Z"}
