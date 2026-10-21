@@ -1,1 +1,39 @@
-{"version":1,"categories":[{"id":"mri","name":"MRI","parentId":null},{"id":"example","name":"サンプル","parentId":"mri"}],"manuals":[{"id":"demo1","categoryId":"example","title":"動作確認用マニュアル","body":"これは架空のサンプルです。院内の実際の撮像条件は含まれていません。","images":[],"updatedAt":"2026/10/21"}],"exportedAt":"2026-10-21T00:00:00Z"}
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "mri",
+      "name": "シーケンス情報",
+      "parentId": null
+    },
+    {
+      "id": "example",
+      "name": "頭部",
+      "parentId": "mri"
+    },
+    {
+      "id": "9c2f8e25-33fd-45ee-8587-59786641d2eb",
+      "name": "頚部",
+      "parentId": "mri"
+    }
+  ],
+  "manuals": [
+    {
+      "id": "demo1",
+      "categoryId": "example",
+      "title": "動作確認用マニュアル",
+      "body": "これは架空のサンプルです。院内の実際の撮像条件は含まれていません。",
+      "images": [],
+      "updatedAt": "2026/10/21"
+    },
+    {
+      "title": "スクリーニング",
+      "body": "全脳\nAX：T1W",
+      "images": [],
+      "updatedAt": "2026/10/21 18:15:29",
+      "id": "04dc4fad-0d84-462f-a6e8-e0a1072ac567",
+      "categoryId": "example"
+    }
+  ],
+  "exportedAt": "2026-10-21T09:16:09.725Z"
+}
