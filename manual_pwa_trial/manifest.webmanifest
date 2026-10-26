@@ -1,7 +1,7 @@
 {
-  "name": "院内マニュアル",
-  "short_name": "マニュアル",
-  "description": "端末内でマニュアルを作成・閲覧し、更新ファイルで共有する試作品",
+  "name": "MRIシーケンス表",
+  "short_name": "MRIシーケンス表",
+  "description": "MRIシーケンス情報の閲覧・管理",
   "lang": "ja",
   "start_url": "./",
   "scope": "./",
