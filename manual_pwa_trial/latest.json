@@ -3,37 +3,57 @@
   "categories": [
     {
       "id": "mri",
-      "name": "シーケンス情報",
+      "name": "頭部",
       "parentId": null
     },
     {
-      "id": "example",
-      "name": "頭部",
-      "parentId": "mri"
+      "id": "366f6cfe-6c05-4f45-a65b-4b56a80a8341",
+      "name": "頚部",
+      "parentId": null
     },
     {
-      "id": "9c2f8e25-33fd-45ee-8587-59786641d2eb",
-      "name": "頚部",
-      "parentId": "mri"
+      "id": "ae01b8d7-c59a-4925-a3d9-40b05c3e9d2a",
+      "name": "脊椎",
+      "parentId": null
+    },
+    {
+      "id": "735e7900-271b-4690-abe0-880c6d6ca0c1",
+      "name": "胸部",
+      "parentId": null
+    },
+    {
+      "id": "4b360357-325d-4743-b271-549da9fdbf4b",
+      "name": "上肢",
+      "parentId": null
+    },
+    {
+      "id": "c0230206-a20b-4c80-9988-3d11f9568fd0",
+      "name": "下肢",
+      "parentId": null
+    },
+    {
+      "id": "9c9ad36a-e78d-4aac-a550-7e239d3fca05",
+      "name": "足部",
+      "parentId": null
     }
   ],
   "manuals": [
     {
-      "id": "demo1",
-      "categoryId": "example",
-      "title": "動作確認用マニュアル",
-      "body": "これは架空のサンプルです。院内の実際の撮像条件は含まれていません。",
+      "title": "頭部スクリーニング",
+      "body": "AX：T1W",
       "images": [],
-      "updatedAt": "2026/10/21"
+      "updatedAt": "2026/10/26 18:04:35",
+      "id": "cab6d1ae-7f04-4f71-84c9-519696146571",
+      "categoryId": "mri"
     },
     {
-      "title": "スクリーニング",
-      "body": "全脳\nAX：T1W",
+      "title": "下垂体",
+      "body": "AX:T1W、T2W",
       "images": [],
-      "updatedAt": "2026/10/21 18:15:29",
-      "id": "04dc4fad-0d84-462f-a6e8-e0a1072ac567",
-      "categoryId": "example"
+      "updatedAt": "2026/10/26 18:06:43",
+      "id": "1e119236-6ac9-4dc3-8c61-59ecb616f19e",
+      "categoryId": "mri"
     }
   ],
-  "exportedAt": "2026-10-26T05:49:22.488Z"
+  "exportedAt": "2026-10-26T09:07:40.840Z"
 }
